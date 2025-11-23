@@ -1,2 +1,1 @@
-
-heyy
+A simple and efficient Library Management System built using Java and Spring Boot. Features include secure login for Admin and Librarian, book management (CRUD operations), member handling, and smooth data flow across the system. The goal is to simplify and digitize day-to-day library operations.
