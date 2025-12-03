@@ -47,23 +47,48 @@ HTML5, CSS3
 
 Below are the screenshots demonstrating the application flow and UI pages.
 
-🏠 Home Page
+## 🏠 Home Page  
+![Home](Implementation/home.png)
 
-ℹ️ About Page
+---
 
-📍 Location Page
+## ℹ️ About Page  
+![About](Implementation/about.png)
 
-🔐 Login Page
+---
 
-🧑‍💼 Admin Services / Dashboard
+## 📍 Location Page  
+![Location](Implementation/location.png)
 
-🛒 Products Page
+---
 
-🔍 Product Search Page
+## 🔐 Login Page  
+![Login](Implementation/login.png)
 
-🛍️ Product Ordering Page
+---
 
-🧩 Project Code Structure (Backend View)
+## 🧑‍💼 Admin Services / Dashboard  
+![Admin Services](Implementation/admin_services.png)
+
+---
+
+## 🛒 Products Page  
+![Products](Implementation/products.png)
+
+---
+
+## 🔍 Product Search Page  
+![Product Search](Implementation/product_search.png)
+
+---
+
+## 🛍️ Product Ordering Page  
+![Product Order](Implementation/product_order.png)
+
+---
+
+## 🧩 Project Code Structure (Backend View)  
+![Structure](Implementation/Structure.png)
 
 ⚙️ Setup Instructions
 1️⃣ Clone the Repository
